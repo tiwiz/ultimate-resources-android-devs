@@ -1,6 +1,6 @@
 # Compiled List of Resources for Android Developers
 
-**I am trying to compile a list which includes resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity** 
+**I am trying to compile and curate a collection of resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity** 
 
 _Note : This is an on-going list and I will keep updating it ! Feel free to comment or submit pull requests for changes or additions._ 
 <br><br> 

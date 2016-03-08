@@ -48,7 +48,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * A curated [list 1](https://github.com/wasabeef/awesome-android-ui) & [list 2](https://github.com/snowdream/awesome-android) of awesome Android UI/UX libraries.
 
 
+#### Third-party tools  
 
+- ##### Debugging
+
+  * [Stetho](a powerful new debugging platform for Android) : A powerful new debugging platform for Android developed by Facebook. It can help in Inspecting Network Connections, Querying SQLite Databases or Manipulating Your App’s Preferences.
+  * [CharlesProxy](https://www.charlesproxy.com) : Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 
 <br>
 

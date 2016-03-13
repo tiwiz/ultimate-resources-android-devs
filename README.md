@@ -23,7 +23,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 <br>
 
-#### Regular Updates & Banter  
+#### Regular Updates, Banter & Articles
 
 * [Augmtented Podcast](http://fragmentedpodcast.com)
 * [Android Dev Digest](https://www.androiddevdigest.com)
@@ -32,6 +32,11 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [News, tips, and tricks directly from the Android team](https://twitter.com/Android)
 * [Android Community](https://twitter.com/androids)
 * [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
+* [Grokking Android](http://www.grokkingandroid.com)
+
+#### Podcasts
+
+* [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
 <br>
 
@@ -78,6 +83,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Ty Smith](https://twitter.com/tsmith) (GDE and Dev at Twitter)
 * [Israel Ferrer](https://twitter.com/rallat) (Dev at Twitter)
 * [Droid Smith](https://twitter.com/devunwired) (GDE and Speaker)
+* [Chet Haase](https://twitter.com/chethaase) (Senier SE at Google)
+* [Ben Weiss](https://twitter.com/keyboardsurfer) (Android DevRel at Google)
+* [Juhani Lehtimäki](https://twitter.com/lehtimaeki) (CTO Fast @ Fat Robot. GDG-Android Munich)
+* [Pedro Gomez](https://twitter.com/pedro_g_s) (Senior Android Developer at Gokarumi)
 
 
 <br>

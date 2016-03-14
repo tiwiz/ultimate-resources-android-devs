@@ -55,6 +55,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Reactive
   * [RxFit](https://github.com/patloew/RxFit)
 
+* ##### Logging
+  * [Hugo](https://github.com/JakeWharton/hugo) 
+
 
 #### Third-party tools  
 

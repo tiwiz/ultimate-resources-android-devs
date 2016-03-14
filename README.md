@@ -52,6 +52,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * A curated [list 1](https://github.com/wasabeef/awesome-android-ui) & [list 2](https://github.com/snowdream/awesome-android) of awesome Android UI/UX libraries.
 
+* ##### Reactive
+  * [RxFit](https://github.com/patloew/RxFit)
+
 
 #### Third-party tools  
 

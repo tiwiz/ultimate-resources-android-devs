@@ -19,6 +19,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
 
+* This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
+
 
 
 <br>
@@ -56,7 +58,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [RxFit](https://github.com/patloew/RxFit)
 
 * ##### Logging
-  * [Hugo](https://github.com/JakeWharton/hugo) 
+  * [Hugo](https://github.com/JakeWharton/hugo)
+  * [Lynx](https://github.com/pedrovgs/Lynx) — see LogCat output right in the app, useful for QAs and developers
+
+* ##### Debugging
+  * [LeakCanary](https://github.com/square/leakcanary) — detect memory leaks without IDE! Must have for QAs and developers.
+  * [TinyDancer](https://github.com/brianPlummer/TinyDancer) — see frame rate right on your screen. Must have for QAs and developers.
 
 
 #### Third-party tools  

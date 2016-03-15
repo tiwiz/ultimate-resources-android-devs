@@ -1,4 +1,4 @@
-# Compiled List of Resources for Android Developers
+# Compiled & Curated List of Resources for Android Developers
 
 **I am trying to compile and curate a collection of resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity** 
 

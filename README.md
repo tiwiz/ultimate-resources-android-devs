@@ -106,6 +106,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Ben Weiss](https://twitter.com/keyboardsurfer) (Android DevRel at Google)
 * [Juhani Lehtimäki](https://twitter.com/lehtimaeki) (CTO Fast @ Fat Robot. GDG-Android Munich)
 * [Pedro Gomez](https://twitter.com/pedro_g_s) (Senior Android Developer at Gokarumi)
+* [Artem Zinnatullin](https://twitter.com/artem_zin) (Android Dev at NY Times)
 
 
 <br>

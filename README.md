@@ -107,6 +107,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Juhani Lehtimäki](https://twitter.com/lehtimaeki) (CTO Fast @ Fat Robot. GDG-Android Munich)
 * [Pedro Gomez](https://twitter.com/pedro_g_s) (Senior Android Developer at Gokarumi)
 * [Artem Zinnatullin](https://twitter.com/artem_zin) (Android Dev at NY Times)
+* [Kelly Shuster](https://twitter.com/KellyShuster) (GDE Android)
 
 
 <br>
@@ -120,7 +121,13 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 #### Other Collections
 
-* [Android Community](https://github.com/tonilopezmr/android-community)
+  - ##### Community
+
+    * [Android Community](https://github.com/tonilopezmr/android-community)
+    
+  - ##### Security
+  
+    * [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 
 
 > Success is simple. Do what's right, the right way, at the right time ~ Arnold H. Glasow

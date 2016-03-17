@@ -17,11 +17,17 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * Training Videos on [Caster.io](https://caster.io) will teach you everything you need to know in order to thrive and survive as an Android Developer.
 
-* [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
-
 * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
 
+#### Best practices shared by others to help you
 
+* [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
+
+<br>
+
+#### Stuff I can read to revise my knowledge
+
+* [Android: the Platform, the Framework, and the Way of Life](http://zeroturnaround.com/rebellabs/android-the-platform-the-framework-and-the-way-of-life/)
 
 <br>
 

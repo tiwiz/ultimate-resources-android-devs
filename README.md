@@ -123,6 +123,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Pedro Gomez](https://twitter.com/pedro_g_s) (Senior Android Developer at Gokarumi)
 * [Artem Zinnatullin](https://twitter.com/artem_zin) (Android Dev at NY Times)
 * [Kelly Shuster](https://twitter.com/KellyShuster) (GDE Android)
+* [Joaquim Vergès](https://twitter.com/joenrv) (Android @twitter)
 
 
 <br>

@@ -78,12 +78,13 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Infer](http://fbinfer.com) : Facebook Infer is a static analysis tool - if you give Infer some Objective-C, Java, or C     code, it produces a list of potential bugs.
 
 
-#### Third-party plugins
+#### Third-party useful plugins/projects
 
 - ##### Static code analysis
 
   * [Android-Check](https://github.com/noveogroup/android-check) : Static code analysis plugin for Android project. (Checkstyle, PMD)
   * [Eror Prone](http://errorprone.info) : Catch common Java mistakes as compile-time errors. Developed by Google.
+  * [android-project-example](https://github.com/noveogroup/android-project-example) : It is project for fast create android applications, using Checkstyle, FindBugs, PMD and lint.
 
 
 <br>

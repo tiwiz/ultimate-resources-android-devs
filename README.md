@@ -85,6 +85,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Android-Check](https://github.com/noveogroup/android-check) : Static code analysis plugin for Android project. (Checkstyle, PMD)
   * [Eror Prone](http://errorprone.info) : Catch common Java mistakes as compile-time errors. Developed by Google.
   * [android-project-example](https://github.com/noveogroup/android-project-example) : It is project for fast create android applications, using Checkstyle, FindBugs, PMD and lint.
+  * A good collection can be found [here](https://github.com/mcandre/linters/blob/master/README.md#java) as well.
 
 
 <br>

@@ -99,6 +99,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Rules, Code Style and Best Practices
 
 * [Code Style for Contributors](http://source.android.com/source/code-style.html)
+* [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 
 #### Experts & Devs to follow  
 

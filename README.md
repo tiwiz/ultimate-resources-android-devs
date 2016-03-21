@@ -139,6 +139,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   - ##### Bootstrap
     * [Android Bootstrap](http://www.androidbootstrap.com)
   
+  - ##### Frameworks
+    * [Rosie](https://github.com/Karumi/Rosie) : Android framework to create applications following the principles of [Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html). 
+  
   - ##### Other Awesome Apps out there
     * [Book Dash App](https://github.com/spongebobrf/BookdashAndroidApp)
 

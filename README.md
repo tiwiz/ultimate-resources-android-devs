@@ -65,11 +65,14 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### Logging
   * [Hugo](https://github.com/JakeWharton/hugo)
-  * [Lynx](https://github.com/pedrovgs/Lynx) — see LogCat output right in the app, useful for QAs and developers
+  * [Lynx](https://github.com/pedrovgs/Lynx) : see LogCat output right in the app, useful for QAs and developers
 
 * ##### Debugging
-  * [LeakCanary](https://github.com/square/leakcanary) — detect memory leaks without IDE! Must have for QAs and developers.
+  * [LeakCanary](https://github.com/square/leakcanary) : detect memory leaks without IDE! Must have for QAs and developers.
   * [TinyDancer](https://github.com/brianPlummer/TinyDancer) — see frame rate right on your screen. Must have for QAs and developers.
+
+* ##### Improved Architecture
+  * [LightCycle](https://github.com/soundcloud/lightcycle) : LightCycle is an Android library that helps break logic out of Activity and Fragment classes into small, self-contained components called LightCycles. It is provided by Soundcloud.
 
 
 #### Third-party tools  

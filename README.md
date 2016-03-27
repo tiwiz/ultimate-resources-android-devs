@@ -158,6 +158,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 #### Other Collections
 
+  - ##### Resources Lists
+  
+    * [Awesome Android](https://github.com/JStumpp/awesome-android)
+
   - ##### Community
 
     * [Android Community](https://github.com/tonilopezmr/android-community)

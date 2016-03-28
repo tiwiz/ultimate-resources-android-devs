@@ -29,3 +29,4 @@
 * [Kelly Shuster](https://twitter.com/KellyShuster) (GDE Android)
 * [Joaquim Vergès](https://twitter.com/joenrv) (Android @twitter)
 * [Evelio Tarazona Cáceres](https://twitter.com/eveliotc) (Senior Andorid Dev @Lyft)
+* [Mark Allison](https://twitter.com/MarkIAllison) (GDE Android, run Styling Android Ltd.)

@@ -1,5 +1,7 @@
-# Android Developers/Experts to follow on Twitter
-
+# Curated List of Android Developers and Experts
+ 
+ > If you are on Twitter then you should follow them
+ 
 * [Andy Rubin](https://twitter.com/Arubin) (Co-founder of Android)
 * [Matias Duarte](https://twitter.com/MatiasDuarte) (Dir Android OS UX at Google)
 * [Jake Wharton](https://github.com/JakeWharton) (Square Inc.)
@@ -27,4 +29,3 @@
 * [Kelly Shuster](https://twitter.com/KellyShuster) (GDE Android)
 * [Joaquim Vergès](https://twitter.com/joenrv) (Android @twitter)
 * [Evelio Tarazona Cáceres](https://twitter.com/eveliotc) (Senior Andorid Dev @Lyft)
-

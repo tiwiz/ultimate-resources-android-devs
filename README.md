@@ -42,6 +42,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
 * [Grokking Android](http://www.grokkingandroid.com)
 * [Styling Android](https://blog.stylingandroid.com)
+* [AndroidDev Reddit](https://twitter.com/androiddevfeed)
 
 #### Podcasts
 

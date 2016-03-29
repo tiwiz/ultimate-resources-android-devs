@@ -76,6 +76,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Improved Architecture
   * [LightCycle](https://github.com/soundcloud/lightcycle) : LightCycle is an Android library that helps break logic out of Activity and Fragment classes into small, self-contained components called LightCycles. It is provided by Soundcloud.
 
+* ##### Location
+  * [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) : Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.  
+
 
 #### Third-party tools  
 

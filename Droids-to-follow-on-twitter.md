@@ -31,7 +31,7 @@
 * [Evelio Tarazona Cáceres](https://twitter.com/eveliotc) (Senior Andorid Dev @Lyft)
 * [Mark Allison](https://twitter.com/MarkIAllison) (GDE Android, run Styling Android Ltd.)
 * [Hugo Visser](https://twitter.com/botteaap) (GDE Android, run LittleRobots.nl)
-* 
+
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 
 ― Unarine Ramaru

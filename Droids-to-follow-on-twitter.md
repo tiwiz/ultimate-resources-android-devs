@@ -30,3 +30,4 @@
 * [Joaquim Vergès](https://twitter.com/joenrv) (Android @twitter)
 * [Evelio Tarazona Cáceres](https://twitter.com/eveliotc) (Senior Andorid Dev @Lyft)
 * [Mark Allison](https://twitter.com/MarkIAllison) (GDE Android, run Styling Android Ltd.)
+* [Hugo Visser](https://twitter.com/botteaap) (GDE Android, run LittleRobots.nl)

@@ -1,6 +1,6 @@
 # Curated List of Android Developers and Experts
  
- > If you are on Twitter then you should follow them
+ **_These guys are master of their game and pretty active on Twitter. If Android is your thing then you should follow them._**
  
 * [Andy Rubin](https://twitter.com/Arubin) (Co-founder of Android)
 * [Matias Duarte](https://twitter.com/MatiasDuarte) (Dir Android OS UX at Google)
@@ -31,3 +31,7 @@
 * [Evelio Tarazona Cáceres](https://twitter.com/eveliotc) (Senior Andorid Dev @Lyft)
 * [Mark Allison](https://twitter.com/MarkIAllison) (GDE Android, run Styling Android Ltd.)
 * [Hugo Visser](https://twitter.com/botteaap) (GDE Android, run LittleRobots.nl)
+* 
+
+> “Learning from others is primary to your success, even doctors seek advice from specialists.” 
+― Unarine Ramaru

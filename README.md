@@ -69,8 +69,11 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * A curated [list 1](https://github.com/wasabeef/awesome-android-ui) & [list 2](https://github.com/snowdream/awesome-android) of awesome Android UI/UX libraries.
 
-* ##### Reactive
+* ##### Fitness
   * [RxFit](https://github.com/patloew/RxFit)
+
+* ##### Lifecycle Handling
+  * [RxLifecycle](https://github.com/trello/RxLifecycle) 
 
 * ##### Logging
   * [Hugo](https://github.com/JakeWharton/hugo)
@@ -84,7 +87,13 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [LightCycle](https://github.com/soundcloud/lightcycle) : LightCycle is an Android library that helps break logic out of Activity and Fragment classes into small, self-contained components called LightCycles. It is provided by Soundcloud.
 
 * ##### Location
-  * [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) : Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.  
+  * [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) : Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
+
+* ##### Data Access Layer
+  * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases. 
+
+* ##### Code Generation
+  * [Auto Parcel](https://github.com/frankiesardo/auto-parcel) : [AutoValue](https://github.com/google/auto/tree/master/value) extension that enables Parcelable values generation.
 
 
 #### Third-party tools  
@@ -107,7 +116,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Eror Prone](http://errorprone.info) : Catch common Java mistakes as compile-time errors. Developed by Google.
   * [android-project-example](https://github.com/noveogroup/android-project-example) : It is project for fast create android applications, using Checkstyle, FindBugs, PMD and lint.
   * A good collection can be found [here](https://github.com/mcandre/linters/blob/master/README.md#java) as well.
-
+  * [Android Lint Checks](https://github.com/vokal/Android-Lint-Checks)
 
 <br>
 

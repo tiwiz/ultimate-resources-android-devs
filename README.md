@@ -15,9 +15,16 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * This [post](https://www.simform.com/blog/top-resources-to-learn-android?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337877153) will help you build your app from scratch and guide you through ideation to publishing on Play Store.
 
-* Training Videos on [Caster.io](https://caster.io) will teach you everything you need to know in order to thrive and survive as an Android Developer.
-
 * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
+
+  ##### Training Videos
+    
+   * Training Videos on [Caster.io](https://caster.io) will teach you everything you need to know in order to thrive and survive as an Android Developer.
+  
+  ##### Ebooks
+
+   * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+   
 
 #### Best practices shared by others to help you
 

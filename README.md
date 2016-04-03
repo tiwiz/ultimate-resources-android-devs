@@ -9,13 +9,11 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * Official [resources](http://developer.android.com/index.html) from Google to get you started with designing and developing for Android.
 
-* [Post](http://blog.udacity.com/2015/05/become-android-developer.html) about bare bones version of becoming an Android Dev.
+* [Guide](http://blog.udacity.com/2015/05/become-android-developer.html) about bare bones version of becoming an Android Dev.
  
 * [Code Path](http://guides.codepath.com/android) is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
 
 * This [post](https://www.simform.com/blog/top-resources-to-learn-android?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337877153) will help you build your app from scratch and guide you through ideation to publishing on Play Store.
-
-* This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
 
   ##### Training Videos
     
@@ -24,11 +22,19 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   ##### Ebooks
 
    * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
-   
+    
+<br>
 
 #### Best practices shared by others to help you
-
-* [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
+  
+  ##### General Lessons
+ 
+   * [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
+   * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
+  
+  ##### Architecture
+  
+    * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) from Google.
 
 <br>
 

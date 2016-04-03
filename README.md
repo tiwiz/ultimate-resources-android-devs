@@ -95,6 +95,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Code Generation
   * [Auto Parcel](https://github.com/frankiesardo/auto-parcel) : [AutoValue](https://github.com/google/auto/tree/master/value) extension that enables Parcelable values generation.
 
+* ##### Images Loading & Caching
+  * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
+
+* ##### Code Injection
+  * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
+
 
 #### Third-party tools  
 

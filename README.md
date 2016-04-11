@@ -35,6 +35,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Architecture
   
     * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) from Google.
+ 
+ * ##### Pro Dev Tips
+ 
+    * [Dev Tips from Sebs](https://medium.com/sebs-top-tips)
 
 <br>
 

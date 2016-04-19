@@ -114,6 +114,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### JSON Parsing and Serialization
   * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.
 
+* ##### Reactive Programming  
+  * [Agera](https://github.com/google/agera) : Agera is a set of classes and interfaces to help write functional, asynchronous, and reactive applications for Android.
+
 
 #### Third-party tools  
 
@@ -166,6 +169,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   
   - ##### Other Awesome Apps out there
     * [Book Dash App](https://github.com/spongebobrf/BookdashAndroidApp)
+  
+  - ##### Other Programming languages for Android
+    * [Kotlin](https://kotlinlang.org) : Kotlin is a Statically typed programming language for the JVM & Android. It's 100% interoperable with Java.
 
 
 <br>

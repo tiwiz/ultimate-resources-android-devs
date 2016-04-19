@@ -111,6 +111,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Code Injection
   * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
 
+* ##### JSON Parsing and Serialization
+  * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.
+
 
 #### Third-party tools  
 

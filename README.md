@@ -182,6 +182,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   - ##### Resources Lists
   
     * [Awesome Android](https://github.com/JStumpp/awesome-android)
+    * [Android Architecture](https://github.com/ziem/android-architecture-resources)
 
   - ##### Community
 

@@ -88,6 +88,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Logging
   * [Hugo](https://github.com/JakeWharton/hugo)
   * [Lynx](https://github.com/pedrovgs/Lynx) : see LogCat output right in the app, useful for QAs and developers
+  * [DebugOverlay](https://github.com/sockeqwe/debugoverlay) : A tiny window overlay to log app internal on top of your android app.
 
 * ##### Debugging
   * [LeakCanary](https://github.com/square/leakcanary) : detect memory leaks without IDE! Must have for QAs and developers.

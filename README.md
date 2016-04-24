@@ -39,6 +39,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Pro Dev Tips
  
     * [Dev Tips from Sebs](https://medium.com/sebs-top-tips)
+    * [Internet of terms](https://www.youtube.com/playlist?list=PLsICxg8PM_ctYzI_aYbs7eX4asunmnMqm)
 
 <br>
 

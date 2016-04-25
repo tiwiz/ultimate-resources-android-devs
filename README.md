@@ -40,6 +40,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  
     * [Dev Tips from Sebs](https://medium.com/sebs-top-tips)
     * [Internet of terms](https://www.youtube.com/playlist?list=PLsICxg8PM_ctYzI_aYbs7eX4asunmnMqm)
+ 
+ * ##### Necessary Evaluation Criterias
+ 
+    * [Android Audit](http://karumi.github.io/AndroidAudit/) : You Android app as a crime scene!!!
 
 <br>
 

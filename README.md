@@ -135,6 +135,11 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [Infer](http://fbinfer.com) : Facebook Infer is a static analysis tool - if you give Infer some Objective-C, Java, or C     code, it produces a list of potential bugs.
 
+- ##### Avoiding the dreaded 65K limit
+
+  * [Methods Count](http://www.methodscount.com) : Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
+
+
 
 #### Third-party useful plugins/projects
 
@@ -162,6 +167,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Communities and User Groups
 
 * [Droidcon](https://twitter.com/droidcon)
+
+<br>
+
+#### Tracking Droidcon events
+
+* [Droidcon Italy Apr-2016](http://it.droidcon.com/2016/) : [Recap #1](http://jeroenmols.com/blog/2016/04/08/droidconit/) by [Jeroen](https://twitter.com/molsjeroen) and [Recap #2](http://www.kiodev.com/droidcon-italy-2016/) by [Kelly](https://twitter.com/KellyShuster).
 
 <br>
 

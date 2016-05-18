@@ -109,7 +109,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases. 
 
 * ##### Code Generation
+  * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
   * [Auto Parcel](https://github.com/frankiesardo/auto-parcel) : [AutoValue](https://github.com/google/auto/tree/master/value) extension that enables Parcelable values generation.
+  * [Auto Value Json](https://github.com/rharter/auto-value-gson) : [AutoValue](https://github.com/google/auto/tree/master/value) extension to add Gson De/Serializer support.
+  
 
 * ##### Images Loading & Caching
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.

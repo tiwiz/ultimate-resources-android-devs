@@ -32,6 +32,7 @@
 * [Mark Allison](https://twitter.com/MarkIAllison) (GDE Android, run Styling Android Ltd.)
 * [Hugo Visser](https://twitter.com/botteaap) (GDE Android, run LittleRobots.nl)
 * [Hannes Dorfmann](https://twitter.com/sockeqwe) (Android Lead @Tickaroo, Open Source Contributor)
+* [Ryan Harter](https://twitter.com/rharter) (Freelance Android Dev, GDE)
 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 

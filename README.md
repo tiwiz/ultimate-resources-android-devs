@@ -2,7 +2,7 @@
 
 **I am trying to compile and curate a collection of resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity.** 
 
-_Note : This is an on-going list and I will keep updating it ! Feel free to comment or submit pull requests for changes or additions._ 
+_Note : This is an on-going list and I will keep updating it ! Feel free to comment or [submit a PR](https://github.com/wahibhaq/ultimate-resources-android-devs/pulls) for changes or additions._ 
 <br><br> 
 
 #### Learning what it takes to become one 

@@ -112,6 +112,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
   * [Auto Parcel](https://github.com/frankiesardo/auto-parcel) : [AutoValue](https://github.com/google/auto/tree/master/value) extension that enables Parcelable values generation.
   * [Auto Value Json](https://github.com/rharter/auto-value-gson) : [AutoValue](https://github.com/google/auto/tree/master/value) extension to add Gson De/Serializer support.
+  * [Esperando](http://dkunzler.github.io/esperandro/) : Easy SharedPreference Engine for Android. Helps in avoiding a lot of boilerplate code & it uses an Annotation Processor to generate a class implementing the defined interface at compile time.
   
 
 * ##### Images Loading & Caching

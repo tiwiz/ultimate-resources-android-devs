@@ -108,18 +108,17 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Data Access Layer
   * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases. 
 
-* ##### Code Generation
+* ##### Code Generation / Reducing Boilerplate code
   * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
   * [Auto Parcel](https://github.com/frankiesardo/auto-parcel) : [AutoValue](https://github.com/google/auto/tree/master/value) extension that enables Parcelable values generation.
   * [Auto Value Json](https://github.com/rharter/auto-value-gson) : [AutoValue](https://github.com/google/auto/tree/master/value) extension to add Gson De/Serializer support.
   * [Esperando](http://dkunzler.github.io/esperandro/) : Easy SharedPreference Engine for Android. Helps in avoiding a lot of boilerplate code & it uses an Annotation Processor to generate a class implementing the defined interface at compile time.
+  * [FuckBoilerplate](https://github.com/FuckBoilerplate) : Collection of several resources to reduce boilerplate.
+  * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
   
 
 * ##### Images Loading & Caching
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
-
-* ##### Code Injection
-  * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
 
 * ##### JSON Parsing and Serialization
   * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.

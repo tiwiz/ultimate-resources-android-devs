@@ -116,6 +116,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Esperando](http://dkunzler.github.io/esperandro/) : Easy SharedPreference Engine for Android. Helps in avoiding a lot of boilerplate code & it uses an Annotation Processor to generate a class implementing the defined interface at compile time.
   * [FuckBoilerplate](https://github.com/FuckBoilerplate) : Collection of several resources to reduce boilerplate.
   * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
+  * [Icepick](https://github.com/frankiesardo/icepick) : Android library that eliminates the boilerplate of saving and restoring instance state. It uses annotation processing to generate code that does bundle manipulation and key generation, so that you don't have to write it yourself.
   
 
 * ##### Images Loading & Caching
@@ -126,6 +127,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### Reactive Programming  
   * [Agera](https://github.com/google/agera) : Agera is a set of classes and interfaces to help write functional, asynchronous, and reactive applications for Android.
+
+* ##### MVP
+  * [Nucleus](https://github.com/konmik/nucleus) : A simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.  
 
 
 #### Third-party tools  

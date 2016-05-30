@@ -22,7 +22,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Ebooks
 
   * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
-  * [Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/gp/product/0134171454?sa-no-redirect=1&pldnSite=1}
+  * [Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/gp/product/0134171454?sa-no-redirect=1&pldnSite=1)
     
 <br>
 

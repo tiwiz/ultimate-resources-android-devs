@@ -65,6 +65,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Grokking Android](http://www.grokkingandroid.com)
 * [Styling Android](https://blog.stylingandroid.com)
 * [AndroidDev Reddit](https://twitter.com/androiddevfeed)
+* [Novoda Blog](https://www.novoda.com/blog/)
 
 #### Podcasts
 

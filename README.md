@@ -71,6 +71,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Podcasts
 
 * [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
+ 
+#### Design and UX
+
+- ##### Material Design
+    
+    * [Material Design Glossary](https://medium.com/tradecraft-traction/speak-intellegently-about-your-app-anatomy-material-design-glossary-c6769de0eb63#.3oqazmkft) : Speak Intelligently About Your App Anatomy (Material Design Glossary).  
 
 <br>
 

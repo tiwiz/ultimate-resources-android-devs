@@ -139,6 +139,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### MVP
   * [Nucleus](https://github.com/konmik/nucleus) : A simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.  
 
+* ##### Graph/Charts
+  * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) : A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  * [Hellochart](https://github.com/lecho/hellocharts-android) : Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations.
+
 
 #### Third-party tools  
 

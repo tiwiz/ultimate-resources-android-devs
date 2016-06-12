@@ -126,6 +126,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Dart](https://github.com/f2prateek/dart) : Extra "injection" library for Android which uses annotation processing to generate code that does direct field assignment of your extras.
   * [Icepick](https://github.com/frankiesardo/icepick) : Android library that eliminates the boilerplate of saving and restoring instance state. It uses annotation processing to generate code that does bundle manipulation and key generation, so that you don't have to write it yourself.
   * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) : A simple, annotation-based library for making deep link handling better on Android.
+  * [SqlDelight](https://github.com/square/sqldelight) : Generates Java models from CREATE TABLE statements.
   
 
 * ##### Images Loading & Caching

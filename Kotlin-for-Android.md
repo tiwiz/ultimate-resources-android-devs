@@ -12,3 +12,7 @@
  - #### Tutorials
  
   * [Building a Kotlin Project](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337877153) : These series of posts are focused on building a proper Android project using Kotlin.
+ 
+ - #### Open Source Projects
+ 
+  * [eraser-map](https://github.com/mapzen/eraser-map) : Privacy-focused mapping application for Android.

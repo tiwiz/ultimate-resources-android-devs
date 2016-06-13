@@ -145,6 +145,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) : A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
   * [Hellochart](https://github.com/lecho/hellocharts-android) : Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations.
 
+* ##### Permissions
+  * [Dexter](https://github.com/Karumi/Dexter) : Android library that simplifies the process of requesting permissions at runtime. 
+
 
 #### Third-party tools  
 

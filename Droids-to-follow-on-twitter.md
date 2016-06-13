@@ -35,8 +35,9 @@
 * [Ryan Harter](https://twitter.com/rharter) (Freelance Android Dev, GDE)
 * [Felipe Lima](https://twitter.com/felipecsl) (Android Dev at @Airbnb)
 * [Paul Blundell](https://twitter.com/blundell_apps) (GDE and Expert) 
-* [Aidan M. Follestad](https://twitter.com/afollestad) : (Young but very competent Android Dev)
-* [Mike Wolfson](https://twitter.com/mikewolfson) : (GDE, Expert, Speaker)
+* [Aidan M. Follestad](https://twitter.com/afollestad) (Young but very competent Android Dev)
+* [Mike Wolfson](https://twitter.com/mikewolfson) (GDE, Expert, Speaker)
+* [Pierre-Yves Ricau](https://twitter.com/Piwai) (Android Baker at @Square)
 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 

@@ -148,6 +148,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Permissions
   * [Dexter](https://github.com/Karumi/Dexter) : Android library that simplifies the process of requesting permissions at runtime. 
 
+* ##### Device Info
+  * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) : Android library to get device information in a super easy way.  
+
 
 #### Third-party tools  
 

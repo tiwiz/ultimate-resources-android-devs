@@ -16,3 +16,4 @@
  - #### Open Source Projects
  
   * [eraser-map](https://github.com/mapzen/eraser-map) : Privacy-focused mapping application for Android.
+  * [OpenConference](https://github.com/OpenConference/OpenConference-android)

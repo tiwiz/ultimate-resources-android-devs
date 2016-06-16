@@ -155,6 +155,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Device Info
   * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) : Android library to get device information in a super easy way.  
 
+* ##### Showing Hints
+  * [HintCase](https://github.com/Nescafemix/hintcase) : HintCase is a library for Android that will help you create really awesome hints/tips for your apps.
+
+
 
 #### Third-party tools  
 

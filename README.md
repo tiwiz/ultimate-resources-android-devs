@@ -158,6 +158,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Showing Hints
   * [HintCase](https://github.com/Nescafemix/hintcase) : HintCase is a library for Android that will help you create really awesome hints/tips for your apps.
 
+* ##### Custom Views and Animations
+  * [Depth-Lib](https://github.com/danielzeller/Depth-LIB-Android-) : A library that gives depth to Views. 
+
 
 
 #### Third-party tools  

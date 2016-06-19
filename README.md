@@ -204,6 +204,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Kotlin
 
  * [Kotlin For Android](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/Kotlin-for-Android.md) : Personally curated list of resources focusing only on Kotlin.
+
+#### Rx
+
+ * [RxJava for Android](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/RxJava-for-Android.md) : Personally curated list of learning resources for this RxJava stuff and how it applies to Android.
   
 
 <br>

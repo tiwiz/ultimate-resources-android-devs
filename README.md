@@ -218,6 +218,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * [Droidcon Italy Apr-2016](http://it.droidcon.com/2016/) : [Recap #1](http://jeroenmols.com/blog/2016/04/08/droidconit/) by [Jeroen](https://twitter.com/molsjeroen) and [Recap #2](http://www.kiodev.com/droidcon-italy-2016/) by [Kelly](https://twitter.com/KellyShuster).
 
+* [Droidcon Berlin June-2016](http://droidcon.de) : [Recap #1](http://jeroenmols.com/blog/2016/06/18/droidconde/) by [Jeroen](https://twitter.com/molsjeroen).
+
 <br>
 
 #### Open Source 

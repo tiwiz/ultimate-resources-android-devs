@@ -38,7 +38,7 @@
 * [Aidan M. Follestad](https://twitter.com/afollestad) (Young but very competent Android Dev)
 * [Mike Wolfson](https://twitter.com/mikewolfson) (GDE, Expert, Speaker)
 * [Pierre-Yves Ricau](https://twitter.com/Piwai) (Android Baker at @Square)
-* [Jesse Wilson](https://twitter.com/jessewilson) (Android Expert)
+* [Jesse Wilson](https://twitter.com/jessewilson) (Android Expert, ExGoogler, Engineer at Square)
 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 

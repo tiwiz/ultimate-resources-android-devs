@@ -23,6 +23,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
   * [Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/gp/product/0134171454?sa-no-redirect=1&pldnSite=1)
+  * [Android Activity Book](https://gumroad.com/l/androidactivitybook) & [Android Theory Book](https://gumroad.com/l/androidtheorybook) can teach you the basics of Android development so you can start creating high quality applications quickly with high quality.
     
 <br>
 

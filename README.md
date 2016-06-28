@@ -149,6 +149,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### MVP
   * [Nucleus](https://github.com/konmik/nucleus) : A simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.  
+  * [Mosby](http://hannesdorfmann.com/mosby/) : A Model-View-Presenter library for modern Android apps.
+  * [DroidMVP](https://github.com/andrzejchm/DroidMVP) : Small Android library to help you incorporate MVP, Passive View and Presentation Model patterns in your app.
 
 * ##### Graph/Charts
   * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) : A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
@@ -241,6 +243,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   
   - ##### Frameworks
     * [Rosie](https://github.com/Karumi/Rosie) : Android framework to create applications following the principles of [Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html). 
+    * [Conductor](https://github.com/bluelinelabs/Conductor) : A small, yet full-featured framework that allows building View-based Android applications.
   
   - ##### Other Awesome Apps out there
     * [Book Dash App](https://github.com/spongebobrf/BookdashAndroidApp)

@@ -12,6 +12,7 @@
  - #### Tutorials
  
   * [Building a Kotlin Project](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337877153) : These series of posts are focused on building a proper Android project using Kotlin.
+  * [Introduction to Kotlin: Android Programming For Humans](https://www.toptal.com/software/kotlin-android-language?utm_content=buffer46c5c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
  
  - #### Open Source Projects
  

@@ -31,8 +31,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   
  * ##### General Lessons  
  
-   * [Best practices in Android development](https://github.com/futurice/android-best-practices#use-gradle-and-its-recommended-project-structure) is a collection of lessons learned from Android developers in Futurice.
-   * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/). 
+   * [Best practices in Android development](https://github.com/futurice/android-best-practices) is a collection of lessons learned from Android developers in Futurice.
+   * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/).
+   * Some of the best practises shared by experts as blog posts : [June Edition](https://medium.com/@stepango/android-development-some-of-the-best-practices-jun-2016-edition-e505a0558a71#.56uur8lew)
   
  * ##### Architecture
   

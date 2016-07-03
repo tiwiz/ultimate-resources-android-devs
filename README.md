@@ -170,9 +170,15 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Depth-Lib](https://github.com/danielzeller/Depth-LIB-Android-) : A library that gives depth to Views. 
   * [Elegant-Underline](https://github.com/romainguy/elegant-underline) : Exploring possible implementations for better underline text decoration on Android. There's a detailed [article](https://medium.com/@romainguy/a-better-underline-for-android-90ba3a2e4fb#.qq0rpmgmb) on this as well.
 
-
 * ##### Database
   * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database. 
+
+* ##### Simplifying Communication between building blocks
+  * [EventBus](https://github.com/greenrobot/EventBus) : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+  * [Otto](http://square.github.io/otto/) : An enhanced event bus with emphasis on Android support.
+  * [RxAndroid](https://github.com/ReactiveX/RxAndroid) : [RxJava](https://github.com/ReactiveX/RxJava) bindings for Android.
+ 
+  
 
 
 

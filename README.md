@@ -174,7 +174,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database. 
 
 * ##### Simplifying Communication between building blocks
-  * [EventBus](https://github.com/greenrobot/EventBus) : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+  * [EventBus](https://github.com/greenrobot/EventBus) : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. There's a nice [comparison](https://github.com/greenrobot/EventBus/blob/master/COMPARISON.md) between Otto and EventBus.
   * [Otto](http://square.github.io/otto/) : An enhanced event bus with emphasis on Android support.
   * [RxAndroid](https://github.com/ReactiveX/RxAndroid) : [RxJava](https://github.com/ReactiveX/RxJava) bindings for Android.
  

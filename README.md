@@ -47,6 +47,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Necessary Evaluation Criterias
  
     * [Android Audit](http://karumi.github.io/AndroidAudit/) : You Android app as a crime scene!!!
+ 
+ * ##### Valuable Insights shared by Popular Apps
+ 
+    * [Instagram - 4 years later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.lx44n5yry) : Tyler Kieft shared how Instagram radically improved their Android App in 4 years. 
 
 <br>
 

@@ -182,6 +182,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Otto](http://square.github.io/otto/) : An enhanced event bus with emphasis on Android support.
   * [RxAndroid](https://github.com/ReactiveX/RxAndroid) : [RxJava](https://github.com/ReactiveX/RxJava) bindings for Android.
  
+* ##### Fonts
+  * [Calligraphy](https://github.com/chrisjenx/Calligraphy) : Custom fonts in Android the easy way. 
+ 
   
 
 

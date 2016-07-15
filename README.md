@@ -15,6 +15,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * This [post](https://www.simform.com/blog/top-resources-to-learn-android?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337877153) will help you build your app from scratch and guide you through ideation to publishing on Play Store.
 
+* [Self-Guided Learning Plan](https://docs.google.com/document/d/1LhZfkFv7BQjWFPL_VtyzJOrz5TevSqTSjldmiM2rrOI/) : lists down all courses which are free except for (*). Most are video courses, some useful websites are listed.
+
+
 * ##### Training Videos
     
   * Training Videos on [Caster.io](https://caster.io) will teach you everything you need to know in order to thrive and survive as an Android Developer.

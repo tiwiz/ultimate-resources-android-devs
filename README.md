@@ -208,6 +208,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [Methods Count](http://www.methodscount.com) : Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 
+- ##### 3rd Party Libs
+
+  * For keeping a check on latest version of 3rd party libs added in Gradle, you can use [Gradle,please](http://gradleplease.appspot.com) in order to avoid checking individually on the official pages. Another way is to use [gradle-version-plugin](https://github.com/ben-manes/gradle-versions-plugin) which is a Gradle plugin to discover dependency updates.
+
 
 
 #### Third-party useful plugins/projects

@@ -148,6 +148,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### Image Processing
   * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media. 
+  * [uCrop](https://github.com/Yalantis/uCrop) : This project aims to provide an ultimate and flexible image cropping experience.
 
 * ##### JSON Parsing and Serialization
   * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.

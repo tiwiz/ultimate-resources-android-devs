@@ -54,6 +54,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Valuable Insights shared by Popular Apps
  
     * [Instagram - 4 years later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.lx44n5yry) : Tyler Kieft shared how Instagram radically improved their Android App in 4 years. 
+ 
+ * ##### Interesting Panel Dicussions
+ 
+    * [The Journey of Android Engineers: Panel Discussion and Q&A](https://www.youtube.com/watch?v=Ab8H-HfhSmM) : This panel discussion was part of a "Square Presents" event from February 18th, 2016.
 
 <br>
 

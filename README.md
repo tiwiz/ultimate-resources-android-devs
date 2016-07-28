@@ -182,6 +182,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Depth-Lib](https://github.com/danielzeller/Depth-LIB-Android-) : A library that gives depth to Views. 
   * [Elegant-Underline](https://github.com/romainguy/elegant-underline) : Exploring possible implementations for better underline text decoration on Android. There's a detailed [article](https://medium.com/@romainguy/a-better-underline-for-android-90ba3a2e4fb#.qq0rpmgmb) on this as well.
   * [Focus Resize](https://github.com/borjabravo10/FocusResize) : A custom animation with scroll listener to recycler views.
+  * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) : A slider that allows a user to select a value at one of the specified tickmarks.
 
 * ##### Database
   * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database. 

@@ -40,6 +40,7 @@
 * [Pierre-Yves Ricau](https://twitter.com/Piwai) (Android Baker at @Square)
 * [Jesse Wilson](https://twitter.com/jessewilson) (Android Expert, ExGoogler, Engineer at Square)
 * [Koushik Dutta](https://twitter.com/koush) (Android Expert, Creator of Vysor, AllCast, ROM Manager)
+* [Etienne Lawlor](https://twitter.com/Etienne_Lawlor) (Android Lead Developer @ ShopSavvy)
 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 

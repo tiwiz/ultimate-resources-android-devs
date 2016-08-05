@@ -194,9 +194,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  
 * ##### Fonts
   * [Calligraphy](https://github.com/chrisjenx/Calligraphy) : Custom fonts in Android the easy way. 
- 
-  
 
+* ##### Communication
+  * [Slyc Messaging](https://github.com/Slyce-Inc/SlyceMessaging) : A messaging library for Android.
 
 
 #### Third-party tools  

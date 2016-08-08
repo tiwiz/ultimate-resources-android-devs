@@ -198,6 +198,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Communication
   * [Slyc Messaging](https://github.com/Slyce-Inc/SlyceMessaging) : A messaging library for Android.
 
+* ##### Crash Reports
+
+  * [ACRA](https://github.com/ACRA/acra) : ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form. [Acralyzer](https://github.com/ACRA/acralyzer) is the backend which needs to be hosted to display Acra Reports.
+
 
 #### Third-party tools  
 

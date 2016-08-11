@@ -281,6 +281,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   
   - ##### Other Awesome Apps out there
     * [Book Dash App](https://github.com/spongebobrf/BookdashAndroidApp)
+    * [CleanFit] (https://github.com/Zireck/CleanFit) : A Material Design Nutrition App implementing Clean Architecture.
   
   - ##### Other Programming languages for Android
     * [Kotlin](https://kotlinlang.org) : Kotlin is a Statically typed programming language for the JVM & Android. It's 100% interoperable with Java.

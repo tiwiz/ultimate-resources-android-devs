@@ -14,6 +14,10 @@
   * [Building a Kotlin Project](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337877153) : These series of posts are focused on building a proper Android project using Kotlin.
   * [Introduction to Kotlin: Android Programming For Humans](https://www.toptal.com/software/kotlin-android-language?utm_content=buffer46c5c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
  
+ - #### Lessons from Converting App to Kotlin
+ 
+  * [Lessons from converting an app to 100% Kotlin](https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.6kgw0rljf) : Lead engineer on [App Lock](https://play.google.com/store/apps/details?id=com.getkeepsafe.applock) at Keepsafe shares his experiences and learnings. 
+ 
  - #### Open Source Projects
  
   * [eraser-map](https://github.com/mapzen/eraser-map) : Privacy-focused mapping application for Android.

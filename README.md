@@ -240,6 +240,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * [Code Style for Contributors](http://source.android.com/source/code-style.html)
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
+* [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) from [Buffer](https://buffer.com)
 
 #### Experts & Devs to follow  
 

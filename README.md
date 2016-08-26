@@ -91,6 +91,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
     
     * [Material Design Glossary](https://medium.com/tradecraft-traction/speak-intellegently-about-your-app-anatomy-material-design-glossary-c6769de0eb63#.3oqazmkft) : Speak Intelligently About Your App Anatomy (Material Design Glossary). 
     * [Material Design everywhere using the Android Support Libs](https://realm.io/news/kau-michael-wolfson-material-design-everywhere/) : Mike Wolfson highlights some important components of these libraries and demonstrates how to use them effectively.
+    
+    - ###### Navigation Drawer
+    
+      * A series of [articles](https://medium.com/android-news/navigation-drawer-styling-according-material-design-5306190da08f#.h7gxpgkd4) digging on the Material Design Navigation Drawer and a [github project](https://github.com/Sottti/MaterialDesignNavDrawer) to see the code how it's done.
 
 - ##### Android Design Library
  

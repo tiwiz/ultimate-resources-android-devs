@@ -95,6 +95,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
     - ###### Navigation Drawer
     
       * A series of [articles](https://medium.com/android-news/navigation-drawer-styling-according-material-design-5306190da08f#.h7gxpgkd4) digging on the Material Design Navigation Drawer and a [github project](https://github.com/Sottti/MaterialDesignNavDrawer) to see the code how it's done.
+      * [Playing With NavigationView](http://www.technotalkative.com/part-4-playing-with-navigationview/)
+      * [Fragment Navigation Drawer](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
 
 - ##### Android Design Library
  

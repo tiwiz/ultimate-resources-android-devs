@@ -41,7 +41,19 @@
 * [Jesse Wilson](https://twitter.com/jessewilson) (Android Expert, ExGoogler, Engineer at Square)
 * [Koushik Dutta](https://twitter.com/koush) (Android Expert, Creator of Vysor, AllCast, ROM Manager)
 * [Etienne Lawlor](https://twitter.com/Etienne_Lawlor) (Android Lead Developer @ ShopSavvy)
-
+* [Sebastiano Poggi](https://twitter.com/seebrock3r) (Android GDE, Android Craftsman @ Novoda)
+* [Daniele Bonaldo](https://twitter.com/danybony_) (Android Craftsman @ Novoda)
+* [Ivan Morgillo](https://twitter.com/hamen) (Author and Android Developer @ AlterEgo Solutions)
+* [Eugenio Marletti](https://twitter.com/workingkills) (Android GDE, Android Lead Developer @ Clue)
+* [Sebastiano Gottardo](https://twitter.com/rotxed) (Android GDE, Android Developer @ Musixmatch)
+* [Daniele Conti](https://twitter.com/fourlastor) (Android Craftsman @ Novoda)
+* [Sasa Sekulic](https://twitter.com/sasa_sekulic) (Author and Android Developer @ AlterEgo Solutions)
+* [Matteo Bonifazi](https://twitter.com/mbonifazi) (Android GDE, Android Developer @ Technogym)
+* [Francesco Pontillo](https://twitter.com/frapontillo) (Android Developer @ Novoda)
+* [Roberto Orgiu](https://twitter.com/_tiwiz) (Android GDE, Android Developer @ Ennova)
+* [Wiebe Elsinga](https://twitter.com/welsinga) (Android GDE, Technical Lead Engineer @ Egeniq)
+* [Xavier Hallade](https://twitter.com/ph0b) (Android GDE, Application Engineer @ Intel)
+* [Tim Messerschmidt](https://twitter.com/SeraAndroid) (Developer Relations @ Google) 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 
 ― Unarine Ramaru
